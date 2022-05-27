@@ -1,6 +1,6 @@
 from sprzedaz import wczytaj_plik
 
-miasto = 'Katowice'
+miasto = 'Gdańsk'
 # oblicz sumę wartości transakcji w tym mieście
 suma = 0
 
